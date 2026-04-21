@@ -43,7 +43,7 @@
 <body>
 
 <div class="container">
-    <h1>DRAFT DAFTAR MITRA DUDI</h1>
+    <h1>DAFTAR MITRA DUDI</h1>
     <h2>SMK DUTA NUSANTARA</h2>
 
     <h3>A. Pendahuluan</h3>
