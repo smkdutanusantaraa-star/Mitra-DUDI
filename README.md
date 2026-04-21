@@ -48,9 +48,13 @@
 
     <h3>A. Pendahuluan</h3>
     <p>
-        Dokumen ini merupakan draft daftar mitra Dunia Usaha dan Dunia Industri (DUDI)
-        yang bekerja sama dengan SMK Duta Nusantara dalam mendukung kegiatan pendidikan,
-        pelatihan, praktik kerja lapangan (PKL), serta penyerapan lulusan.
+        Dalam rangka meningkatkan kualitas pendidikan dan kesiapan lulusan menghadapi dunia kerja, SMK Duta Nusantara menjalin kerja sama dengan Dunia Usaha dan Dunia Industri (DUDI) melalui kesepakatan bersama yang dituangkan dalam bentuk Memorandum of Understanding (MoU). Kerja sama ini merupakan langkah strategis dalam menyelaraskan kebutuhan industri dengan proses pembelajaran di sekolah.
+
+MoU yang disepakati mencakup berbagai aspek, antara lain pelaksanaan Praktik Kerja Lapangan (PKL), penyelarasan kurikulum, kegiatan kunjungan industri, pelatihan bagi peserta didik dan tenaga pendidik, serta peluang rekrutmen lulusan. Melalui kemitraan ini diharapkan tercipta sinergi yang berkelanjutan antara pihak sekolah dan dunia industri.
+
+Kerja sama ini tidak hanya bertujuan untuk meningkatkan kompetensi peserta didik secara teknis, tetapi juga untuk membentuk karakter kerja yang profesional, disiplin, dan adaptif terhadap perkembangan teknologi dan kebutuhan pasar kerja.
+
+Dengan adanya MoU ini, SMK Duta Nusantara berkomitmen untuk terus memperluas jaringan kemitraan dengan berbagai sektor industri guna mendukung terciptanya lulusan yang kompeten, siap kerja, dan berdaya saing tinggi.
     </p>
 
     <h3>B. Tujuan Kemitraan</h3>
@@ -72,35 +76,35 @@
         </tr>
         <tr>
             <td>1</td>
-            <td>PT Maju Jaya Teknologi</td>
-            <td>Teknologi Informasi</td>
+            <td>Hotel Horison</td>
+            <td>Jasa Akomodasi</td>
             <td>-</td>
             <td>PKL, Rekrutmen</td>
         </tr>
         <tr>
             <td>2</td>
-            <td>CV Sejahtera Mandiri</td>
-            <td>Perdagangan</td>
+            <td>Soeltan Luxe</td>
+            <td>Jasa Akomodasi</td>
             <td>-</td>
             <td>PKL, Kunjungan Industri</td>
         </tr>
         <tr>
             <td>3</td>
-            <td>PT Nusantara Otomotif</td>
-            <td>Otomotif</td>
+            <td>Hotel Bandara</td>
+            <td>Jasa Akomodasi</td>
             <td>-</td>
             <td>PKL, Teaching Factory</td>
         </tr>
         <tr>
             <td>4</td>
-            <td>UD Berkah Abadi</td>
-            <td>Jasa & Produksi</td>
+            <td>Griya Aulia</td>
+            <td>Jasa Akomodasi</td>
             <td>-</td>
             <td>PKL</td>
         </tr>
         <tr>
             <td>5</td>
-            <td>PT Digital Kreatif</td>
+            <td>TVRI</td>
             <td>Multimedia</td>
             <td>-</td>
             <td>PKL, Magang</td>
