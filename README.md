@@ -2,7 +2,7 @@
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-    <title>Draft Mitra DUDI - SMK Duta Nusantara</title>
+    <title>Mitra DUDI - SMK Duta Nusantara</title>
     <style>
         body {
             font-family: Arial, sans-serif;
